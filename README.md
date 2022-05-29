@@ -26,7 +26,7 @@ conda env create -f ./conda/Blockwise.yml
 ```
 
 ### You can choose to download VFHQ dataset and extract 
-VFHQ can be find on . Copy VFHQ dataset into folder ./extract/input/.
+VFHQ can be find on https://people.mpi-inf.mpg.de/~gfox/. Copy VFHQ dataset into folder ./extract/input/.
 
 Extract datasets from VFHQ
 ```bash
