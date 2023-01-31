@@ -69,3 +69,4 @@ python ./code/run_training.py --feature fft --gpu-id 0 --training_sets D_H D_S D
 python ./code/run_test.py --feature fft --gpu-id 0 --training_sets D_H D_S D_L D_EM D_F --test_sets horse zebra summer winter apple orange facades monet photo CycleGAN D_L D_S D_EM D_F
 ```
 
+## If you need to use code, models or data, please cite the paper "Blockwise Spectral Analysis for Deepfake Detection in High-fidelity Videos"
